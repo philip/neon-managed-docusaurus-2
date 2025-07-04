@@ -4,7 +4,7 @@ This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) si
 
 ## Deploy Your Own
 
-Deploy your own Docusaurus project with Vercel.
+Deploy your own Docusaurus project with Vercel. Test
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
 
